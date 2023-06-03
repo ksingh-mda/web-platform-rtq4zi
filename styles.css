@@ -1,0 +1,13 @@
+.hey {
+  width: 100%;
+}
+
+.one {
+  width: 50%;
+  float: left;
+}
+
+.two {
+  width: 50%;
+  float: right;
+}
